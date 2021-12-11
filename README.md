@@ -1,2 +1,2 @@
 # test
-Can I change the description afterwards?
+Of course I can, but you need to do a regular commit.
